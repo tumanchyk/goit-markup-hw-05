@@ -504,6 +504,9 @@ p {
   height: 18px;
   fill: #000;
 }
+.no-scroll {
+  overflow: hidden;
+}
 
 /* Portfolio */
 
